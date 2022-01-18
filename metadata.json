@@ -1,0 +1,32 @@
+{
+  "name": "Ticket Gold 0",
+  "symbol": "",
+  "description": "We are a community that through NFT Tickets grant their owners access to education and support in the NFT world, participation in physical and digital events, distribution of rewards, collective investments and much more...",
+  "seller_fee_basis_points": 800,
+  "image": "image.png",
+  "animation_url": "https://arweave.net/6PZcuraONZMw7Hyz3En8MEKOYmKdKWXly5oSZ3wDV_w?ext=mp4",
+  "attributes": [{
+    "trait_type": "Ticket",
+    "value": "Gold",
+    "trait_type": "Gen",
+    "value": "0"
+  }],
+  "collection": {
+    "name": "NNNN",
+    "family": "NFTCracks"
+  },
+  "properties": {
+    "files": [{
+      "uri": "image.png",
+      "type": "image/png"
+    }, {
+      "uri": "https://arweave.net/6PZcuraONZMw7Hyz3En8MEKOYmKdKWXly5oSZ3wDV_w?ext=mp4",
+      "type": "video/mp4"
+    }],
+    "category": "video",
+    "creators": [{
+      "address": "CzEdFRpsvfxVXuVdBnLLApBkn8D56hf9aptRsqRbqrWQ",
+      "share": 100
+    }]
+  }
+}
