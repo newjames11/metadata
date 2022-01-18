@@ -3,21 +3,25 @@
   "symbol": "",
   "description": "We are a community that through NFT Tickets grant their owners access to education and support in the NFT world, participation in physical and digital events, distribution of rewards, collective investments and much more...",
   "seller_fee_basis_points": 800,
-  "image": "https://arweave.net/gv0MyIgQLNX-jWOWbxBhfWr3qO0zExYYouB353pJqkE",
+  "image": "https://arweave.net/32AUDIbsXl8kJ07GA9GMyOcRhBpRpDtArXb9uNZ1v9s",
   "animation_url": "",
-  "attributes": [{
-    "trait_type": "Ticket",
-    "value": "Hidden"},
-                 {"trait_type": "Gen",
-    "value": "0"
-  }],
+  "attributes": [
+    {
+      "trait_type": "Ticket",
+      "value": "Hidden"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "0"
+    }
+  ],
   "collection": {
     "name": "NNNN",
     "family": "NFTCracks"
   },
   "properties": {
     "files": [{
-      "uri": "https://arweave.net/gv0MyIgQLNX-jWOWbxBhfWr3qO0zExYYouB353pJqkE",
+      "uri": "https://arweave.net/32AUDIbsXl8kJ07GA9GMyOcRhBpRpDtArXb9uNZ1v9s",
       "type": "image/png"
     }],
     "category": "video",
