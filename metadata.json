@@ -1,26 +1,27 @@
 {
-  "name": "Ticket Gold 0",
+  "name": "Ticket Silver 1",
   "symbol": "",
   "description": "We are a community that through NFT Tickets grant their owners access to education and support in the NFT world, participation in physical and digital events, distribution of rewards, collective investments and much more...",
   "seller_fee_basis_points": 800,
-  "image": "https://arweave.net/kAmGBT8f-PW4-49q0bsN95DlErTe7b2eWsai5p9CyQg/?ext=gif",
-  "animation_url": "https://arweave.net/sr6pSChlqR27Jyc1Jv9aucFb0iQe_X2Xu7UIr1OjN9Q?ext=mp4",
+  "image": "https://arweave.net/fEXxG43fwaNfSpzb3TjaSVaz05uX3glcb9I9tfTPkrY/?ext=gif",
+  "animation_url": "https://arweave.net/z1BydO5Wpp_mAPBJS8fnERhCOLrmfte4Zxm2A65YSpM?ext=mp4",
   "attributes": [{
     "trait_type": "Ticket",
-    "value": "Gold"},
-                 {"trait_type": "Gen",
+    "value": "Silver"
+  }, {
+    "trait_type": "Gen",
     "value": "0"
   }],
   "collection": {
-    "name": "NNNN",
+    "name": "NFTCracks",
     "family": "NFTCracks"
   },
   "properties": {
     "files": [{
-      "uri": "https://arweave.net/kAmGBT8f-PW4-49q0bsN95DlErTe7b2eWsai5p9CyQg/?ext=gif",
-      "type": "image/png"
+      "uri": "https://arweave.net/fEXxG43fwaNfSpzb3TjaSVaz05uX3glcb9I9tfTPkrY/?ext=gif",
+      "type": "image/gif"
     }, {
-      "uri": "https://arweave.net/6PZcuraONZMw7Hyz3En8MEKOYmKdKWXly5oSZ3wDV_w?ext=mp4",
+      "uri": "https://arweave.net/z1BydO5Wpp_mAPBJS8fnERhCOLrmfte4Zxm2A65YSpM?ext=mp4",
       "type": "video/mp4"
     }],
     "category": "video",
