@@ -7,8 +7,8 @@
   "animation_url": "https://arweave.net/sr6pSChlqR27Jyc1Jv9aucFb0iQe_X2Xu7UIr1OjN9Q?ext=mp4",
   "attributes": [{
     "trait_type": "Ticket",
-    "value": "Gold",
-    "trait_type": "Gen",
+    "value": "Gold"},
+                 {"trait_type": "Gen",
     "value": "0"
   }],
   "collection": {
